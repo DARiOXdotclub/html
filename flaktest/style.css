@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@import "css/header.css";
+@import "css/content.css";
+@import "css/players.css";
+@import "css/teams.css";
+@import "css/subs.css";
+@import "css/particle.css";
+@import "css/misc.css";
+
+*{
+	font-family: 'Open Sans', sans-serif;
+}
