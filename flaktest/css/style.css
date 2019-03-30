@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+
+.flaktest.players{
+	width: 700px;
+	position: relative;
+}
+.flaktest.profile{
+	border-radius: 75px;
+	border: none;
+	position: relative;
+	left: 5px;
+}
+.flaktest.players.name{
+	font-size: 28px;
+}
+.flaktest.team1.player1 .flaktest.players.name {
+	position:absolute;
+	top: 55px;
+	left: 170px;
+}
+.flaktest.team1.player2 .flaktest.players.name {
+	position:absolute;
+	top: 55px;
+	left: 170px;
+}
+.flaktest.team1.player3 .flaktest.players.name{
+	position: absolute;
+	top: 450px;
+	left: 170px;
+}
+.flaktest.team1.player4 .flaktest.players.name{
+	position: absolute;
+	top: 60px;
+	left: 170px;
+}
+.flaktest.team1.player5 .flaktest.players.name{
+	position: absolute;
+	top: 790px;
+	left: 170px;
+}
+
+.flaktest.subs.player1 .flaktest.players.name{
+	position: absolute;
+	top: 50px;
+	left: 170px;
+}
+
+
+.flaktest.team1.player2{
+	position: absolute;
+	top: 0px;
+	left: 400px;
+}
+.flaktest.team1.player4{
+	position: absolute;
+	top: 390px;
+	left: 400px;
+}
+.flaktest.players.description{
+	position: relative;
+	left: 75px;
+}
+.flaktest.players.role{
+	position: relative;
+	left: 75px;
+}
+
+
+.flaktest.team1.player1{
+	padding-bottom: 15px;
+}
+.flaktest.team1.player2{
+	padding-bottom: 15px;
+}
+.flaktest.team1.player3{
+	padding-bottom: 15px;
+}
+.flaktest.team1.player4{
+	padding-bottom: 15px;
+}
+.flaktest.team1.player5{
+	padding-bottom: 15px;
+}
+
+.flaktest.subs.player1{
+	padding-bottom: 15px;
+}
+
+
+
+
+
+
+.roles{
+	font-weight: bold;
+}
+.trainingmethod{
+	font-weight: bold;
+}
+.skils{
+	font-weight: bold;
+}
+
+.flaktest.subtitle{
+	font-size: 36px;
+	position: relative;
+	top: 100px;
+	left: 20px;
+	width: 80%;
+	border-top: 1.1px black dashed;
+}
+.flaktest.subs{
+	position: relative;
+	top:50px;
+}
+
+
+
+.dariox{
+	font-family: serif;
+}
+
+
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
