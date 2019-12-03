@@ -1,4 +1,4 @@
-<!--?php
+<?php
 Include __DIR__."/ip.php";
 
  /* Log users */
@@ -15,7 +15,7 @@ Include __DIR__."/ip.php";
     $writeToLogReferer = $_SERVER['HTTP_REFERER'];
 
     $writeToLog = $writeToLogTime.",".$writeToLogIP.",".$writeToLogUserAgent.",".$writeToLogCountry.",".$writeToLogReferer.",".$writeToLogHostname."\n";
--->
+
 <?php
     $readmetxt = file_get_contents("http://share.dariox.club/games/gmod11/readme.html");
 ?>
