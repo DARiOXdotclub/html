@@ -16,7 +16,7 @@ Include __DIR__."/ip.php";
 
     $writeToLog = $writeToLogTime.",".$writeToLogIP.",".$writeToLogUserAgent.",".$writeToLogCountry.",".$writeToLogReferer.",".$writeToLogHostname."\n";
 
-<?php
+
     $readmetxt = file_get_contents("http://share.dariox.club/games/gmod11/readme.html");
 ?>
 <html>
