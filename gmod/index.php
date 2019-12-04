@@ -75,7 +75,7 @@ Include __DIR__."/ip.php";
 				<tbody>
 					<tr>
 						<td>Launcher</td>
-						<td>1.3.1 [build 73]</td>
+						<td>1.3.1 [build 80]</td>
 					</tr>
 					<tr>
 						<td>Launcher Framework</td>
