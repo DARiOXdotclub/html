@@ -57,7 +57,7 @@ Include __DIR__."/ip.php";
 		        <a class="nav-link" href="https://dariox.club/gmod">Garry's Mod 11<span class="sr-only">(current)</span></a>
 		      </li>
 		      <li class="nav-item">
-		      	<a class="nav-link" href="http://share.dariox.club/games/pc/gmod11"target="_blank">Download <sup>(Multiple Files)</sup></a>
+		      	<a class="nav-link" href="http://share.dariox.club/games/gmod11"target="_blank">Download <sup>(Multiple Files)</sup></a>
 		      </li>
 		    </ul>
 		  </div>
